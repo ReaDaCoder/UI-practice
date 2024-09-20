@@ -14,6 +14,20 @@ h1{
    
 }
 
+.recom{
+    color:white;
+    background-color: #00ad6a;
+}
+.h{ 
+    color: #00ad6a;
+    font-size: x-large;
+}
+
+#sign-up{
+    border-color: #00ad6a;
+    border: solid;
+}
+
 .navbar a{
     color:#00ad6a;
     text-decoration: none;
@@ -63,5 +77,8 @@ button{
 }
 
 #middle-col{
-    border: #1fe374;
+    border:solid;
+    border-color: #00ad6a;
+    border-radius: 12px;
+    padding: 35px;
 }
