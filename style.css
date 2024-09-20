@@ -1,13 +1,16 @@
 body{
     background-color:#eafaf1 ;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 h1{
     font-size: 50px;
+    line-height: 50px;
 }
 .navbar ul{
     list-style-type:none;
     padding:0px;
     margin:0px;
+    font-family: 'Courier New', Courier, monospace;
    
 }
 
